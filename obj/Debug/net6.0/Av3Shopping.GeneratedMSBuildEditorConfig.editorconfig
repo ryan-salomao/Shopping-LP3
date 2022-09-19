@@ -8,45 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Av3Shopping
 build_property.RootNamespace = Av3Shopping
-build_property.ProjectDir = /home/estudante/Documentos/AV3-LP3/Av3Shopping/
+build_property.ProjectDir = C:\Users\ryan\Desktop\Shopping-LP3\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /home/estudante/Documentos/AV3-LP3/Av3Shopping
+build_property.MSBuildProjectDirectory = C:\Users\ryan\Desktop\Shopping-LP3
 build_property._RazorSourceGeneratorDebug = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/Home/CadastrarLoja.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9DYWRhc3RyYXJMb2phLmNzaHRtbA==
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Gerenciamento/CadastrarLoja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VyZW5jaWFtZW50b1xDYWRhc3RyYXJMb2phLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Gerenciamento/DeletarLoja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VyZW5jaWFtZW50b1xEZWxldGFyTG9qYS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/Home/ListaDeLojas.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9MaXN0YURlTG9qYXMuY3NodG1s
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Gerenciamento/DetalhesLoja.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VyZW5jaWFtZW50b1xEZXRhbGhlc0xvamEuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Gerenciamento/ListaDeLojas.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VyZW5jaWFtZW50b1xMaXN0YURlTG9qYXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Gerenciamento/VerificarCadastro.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VyZW5jaWFtZW50b1xWZXJpZmljYXJDYWRhc3Ryby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/estudante/Documentos/AV3-LP3/Av3Shopping/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-btgoqfubhr
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ryan/Desktop/Shopping-LP3/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y431jm59m4

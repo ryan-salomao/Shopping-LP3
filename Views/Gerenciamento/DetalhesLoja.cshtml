@@ -1,0 +1,16 @@
+@model Av3Shopping.ViewModels.LojaViewModel;
+
+@{
+    ViewData["Title"] = "Detalhes da Loja " + @Model.Nome;
+}
+
+
+<p>Numero: @Model.Numero</p>
+<p>Piso: @Model.Piso</p>
+<p>Descricao: @Model.Descricao</p>
+<p>Email: @Model.Email</p>
+<p>Categoria: @Model.Categoria</p>
+
+<a href="Gerenciamento/DeletarLoja/@Model.Numero">
+    <button type="submit">Excluir</button>
+</a>

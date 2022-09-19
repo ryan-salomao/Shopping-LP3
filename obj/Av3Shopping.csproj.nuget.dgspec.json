@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/estudante/Documentos/AV3-LP3/Av3Shopping/Av3Shopping.csproj": {}
+    "C:\\Users\\ryan\\Desktop\\Shopping-LP3\\Av3Shopping.csproj": {}
   },
   "projects": {
-    "/home/estudante/Documentos/AV3-LP3/Av3Shopping/Av3Shopping.csproj": {
+    "C:\\Users\\ryan\\Desktop\\Shopping-LP3\\Av3Shopping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/estudante/Documentos/AV3-LP3/Av3Shopping/Av3Shopping.csproj",
+        "projectUniqueName": "C:\\Users\\ryan\\Desktop\\Shopping-LP3\\Av3Shopping.csproj",
         "projectName": "Av3Shopping",
-        "projectPath": "/home/estudante/Documentos/AV3-LP3/Av3Shopping/Av3Shopping.csproj",
-        "packagesPath": "/home/estudante/.nuget/packages/",
-        "outputPath": "/home/estudante/Documentos/AV3-LP3/Av3Shopping/obj/",
+        "projectPath": "C:\\Users\\ryan\\Desktop\\Shopping-LP3\\Av3Shopping.csproj",
+        "packagesPath": "C:\\Users\\ryan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryan\\Desktop\\Shopping-LP3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/estudante/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ryan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
@@ -43,8 +43,7 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -56,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -23,15 +23,6 @@ public class HomeController : Controller
         return View();
     }
 
-    public IActionResult ListaDeLojas()
-    {
-        return View();
-    }
-
-    public IActionResult CadastrarLoja() {
-        return View();
-    }
-
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
     public IActionResult Error()
     {
