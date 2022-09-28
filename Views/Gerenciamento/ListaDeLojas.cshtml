@@ -16,7 +16,7 @@ else
 
     @foreach(var loja in Model)
     {
-        <h2>@loja.Nome</h2>
+        <h2><a href="/Gerenciamento/DetalhesLoja/@loja.Numero">@loja.Nome</a></h2>
 
         <p>@loja.Categoria</p>
         <p><b>Numero: </b>@loja.Numero</p>
